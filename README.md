@@ -1,6 +1,4 @@
-# Flutter Drawer Navigation
-
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/ufer4QTFTO8/maxresdefault.jpg)](https://www.youtube.com/watch?v=ufer4QTFTO8)
+# HealthMate
 
 ## Getting Started
 
