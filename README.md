@@ -1,4 +1,7 @@
 # HealthMate
+## The App
+
+Imagine having an app that makes you feel like it cares for you! An app that covers nearly every aspect of your health. Introducing HealthMate, our solution to your health problems.
 
 ## Getting Started
 
